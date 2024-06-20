@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadn-abhishek
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently deep learning 
 - 💞️ I’m looking to collaborate on website development
 - 📫 Reach out to me on Insta - @aadn_abhishek
 
