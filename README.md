@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Aadn-abhishek
-- 👀 I’m interested in software development
-- 🌱 I’m currently deep learning 
-- 💞️ I’m looking to collaborate on website development
-- 📫 Reach out to me on Insta - @aadn_abhishek
 
-<!---
-Aadn-abhishek/Aadn-abhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3 align="center"> I'm Abhishek, an Undergraduate Student of Computer Science.</h3>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar/)](https://www.linkedin.com/in/abhishek-kumar-772220240/)
+[![Gmail Badge](https://img.shields.io/badge/-abhiabhishek9060@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abhiabhishek9060.com)](mailto:abhiabhishek9060@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/aadn_abhishek__t-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/v_ikran_t/)](https://www.instagram.com/aadn_abhishek/)
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
