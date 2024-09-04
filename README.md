@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar/)](https://www.linkedin.com/in/abhishek-kumar-772220240/)
 [![Gmail Badge](https://img.shields.io/badge/-abhiabhishek9060@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abhiabhishek9060.com)](mailto:abhiabhishek9060@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/aadn_abhishek__t-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/aadn_abhishek/)](https://www.instagram.com/aadn_abhishek/)
+[![Instagram Badge](https://img.shields.io/badge/aadn_abhishek-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/aadn_abhishek/)](https://www.instagram.com/aadn_abhishek/)
 
 Here are some ideas to get you started:
 
